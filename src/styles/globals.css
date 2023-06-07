@@ -305,6 +305,22 @@ hr {
   background-color: #2277A8;
 }
 
+.skills-container .grid-skills .git:hover {
+  background-color: #E34F26;
+}
+
+.skills-container .grid-skills .github:hover {
+  background-color: #b3b3b3;
+}
+
+.skills-container .grid-skills .npm:hover {
+  background-color: #E34F26;
+}
+
+.skills-container .grid-skills .vercel:hover {
+  background-color: #b3b3b3;
+}
+
 .skills-container .grid-skills .html:hover {
   background-color: #E34F26;
 }

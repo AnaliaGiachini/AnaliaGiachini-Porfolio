@@ -31,6 +31,22 @@ const Skills = () => {
           <i className="fa-solid fa-database"></i>
           <p>PostgreSQL</p>
         </div>
+        <div className="skill-card git">
+        <i className="fa-brands fa-git-alt"></i>
+          <p>Git</p>
+        </div>
+        <div className="skill-card github">
+        <i className="fa-brands fa-github"></i>
+          <p>GitHub</p>
+        </div>
+        <div className="skill-card npm">
+        <i className="fa-brands fa-npm"></i>
+          <p>Npm</p>
+        </div>
+        <div className="skill-card vercel">
+        <i className="fa-solid fa-caret-up"></i>
+          <p>Vercel</p>
+        </div>
         <div className="skill-card html">
           <i className="fa-brands fa-html5 html-icon"></i>
           <p>HTML</p>
