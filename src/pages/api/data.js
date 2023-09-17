@@ -3,14 +3,16 @@ export const projectData = [
     id: 1,
     title: 'Countries App',
     description:
-      'Development of a Web Application about countries around the world. Allows you to search for countries using their name. When selecting the country, information such as the name, its flag, its capital, its continent and other relevant data is displayed.You can create a tourist activity by country, it also contains orders and filters by different criteria such as alphabetically ascending or descending, by amount of population, by continents and tourist activities.',
+      "I created a web application that focuses on countries from around the world. This application enables users to search for countries by their names. Upon selecting a specific country, the application displays essential information, including the country's name, flag, capital city, continent, and other relevant details.",
+    
+      "Moreover, users can create tourist activities associated with each country. The application also features sorting and filtering options based on various criteria, such as alphabetical order (both ascending and descending), population size, continents, and types of tourist activities.": "",
     gitHubLink: 'https://github.com/AnaliaGiachini/PI-Countries-main',
   },
   {
     id: 2,
     title: 'Salvando Huellas App',
     description:
-      'Web Application for an Animal Shelter.In it, users can generate an adoption form for the available animals. You can search for them through the different filters such as size, age and gender. In addition, the application has electronic commerce, a donation section, user registration and administrator management, among other features.',
+      'We have developed a web application for an animal shelter that allows users to create adoption forms for the animals currently available for adoption. Users can easily search for animals using various filters such as size, age, and gender. Additionally, the application offers a range of other features including an e-commerce platform, a donation section, user registration, and administrator management.',
     gitHubLink: 'https://github.com/AnaliaGiachini/PF-Salvando-Huellas',
   },
 ];
