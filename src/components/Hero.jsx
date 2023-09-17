@@ -7,7 +7,7 @@ const Hero = () => {
       <div className="hero-text">
         <h1>Hey, I'm Analia 👋</h1>
         <p>
-          Full Stack Web Developer with experience in Front End and Back End development.
+          - FullStack Web Developer -
         </p>
         <div className="social-icons">
           <a
